@@ -1,0 +1,7 @@
+name: autoAnswer
+main: ca.masonx.autoAnswer.AutoAnswer
+version: 1
+commands:
+  autoanswer:
+    description: configure AutoAnswer
+    usage: /autoanswer
